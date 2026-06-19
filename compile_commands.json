@@ -1,0 +1,116 @@
+[
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/main.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/main.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/main.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/shaderClass.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/shaderClass.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/shaderClass.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/shaderClass.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/FBO.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/FBO.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/FBO.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/FBO.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/VAO.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/VAO.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/VAO.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/VAO.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/VBO.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/VBO.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/VBO.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/VBO.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/EBO.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/EBO.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/EBO.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/EBO.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/cc  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/glad.c.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/glad.c",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/glad.c",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/stb.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/stb.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/stb.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/stb.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/texture.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/texture.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/texture.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/texture.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/camera.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/camera.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/camera.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/camera.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/model.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/model.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/model.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/model.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/mesh.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/mesh.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/mesh.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/mesh.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_demo.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_demo.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_draw.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_draw.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_impl_glfw.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_impl_glfw.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_impl_opengl3.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_tables.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_tables.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_widgets.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_widgets.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/ayinde-abrams/Documents/dubrovnikSponza",
+  "command": "/usr/bin/c++  -I/home/ayinde-abrams/Documents/dubrovnikSponza -I/home/ayinde-abrams/Documents/dubrovnikSponza/headers -I/home/ayinde-abrams/Documents/dubrovnikSponza/imgui -I/home/ayinde-abrams/Documents/dubrovnikSponza/include  -o CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui.cpp.o -c /home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui.cpp",
+  "file": "/home/ayinde-abrams/Documents/dubrovnikSponza/src/imgui/imgui.cpp",
+  "output": "CMakeFiles/dubrovnikSponza.dir/src/imgui/imgui.cpp.o"
+}
+]
