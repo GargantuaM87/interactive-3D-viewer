@@ -57,7 +57,7 @@ void main()
     vec3 normal = fs_in.Normal;
     vec3 fragPos = fs_in.FragPos;
     //color = texture(u_mat.texture_diffuse1, fs_in.TexCoords).rgb;
-    color = vec3(0.4, 0.4, 0.0);
+    color = vec3(0.4, 0.0, 0.4);
 
     vec3 viewDir = normalize(u_viewPos - fragPos);
 
