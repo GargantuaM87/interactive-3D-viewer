@@ -62,7 +62,7 @@ void main()
     vec3 viewDir = normalize(u_viewPos - fragPos);
 
     vec3 result = CalcDirLight(dLight, normal, viewDir);
-    //result *= CalcPointLight(pLight, normal, fragPos, viewDir);
+    result *= CalcPointLight(pLight, normal, fragPos, viewDir);
     FragColor = vec4(result, 1.0);
 
     float brightness = dot(FragColor.rgb, vec3(0.2126, 0.7152, 0.0722));
